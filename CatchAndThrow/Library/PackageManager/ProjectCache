@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637964433576319402
-    m_Hash: 2989432480
+      ticks: 637964438034040441
+    m_Hash: 1210271494
   m_LockFileStatus:
     m_FilePath: C:/Users/user/Documents/GitHub/VacationPJ/CatchAndThrow/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637964433740056219
-    m_Hash: 1323924065
+      ticks: 637964438034050407
+    m_Hash: 2425293117
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
